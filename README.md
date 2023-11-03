@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Azure Function App , Cron Jobs and SQLAlchemy ORM**
 
-- 💬 Ask me about **Anything from my skill list**
+- 💬 Ask me about **Anything from my bucket of skills**
 
 - 📫 How to reach me **bansalharsh1409@gmail.com**
 
