@@ -7,8 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hbbro14" target="blank"><img src="https://img.shields.io/twitter/follow/hbbro14?logo=twitter&style=for-the-badge" alt="hbbro14" /></a> </p>
 
-- 🔭 I’m currently working on **as Intern at AB InBev, Full Stack Develope.**
-
+- 🔭 **Ex AB InBev Full Stack Developer Intern, coding excellence unleashed.**
 - 🌱 I’m currently learning **Azure Function App , Cron Jobs and SQLAlchemy ORM**
 
 - 💬 Ask me about **Anything from my bucket of skills**
